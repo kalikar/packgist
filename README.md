@@ -1,1 +1,1 @@
-composer require kalikar/packgist
+composer  require  kalikar/packgist

@@ -1,0 +1,12 @@
+{
+    "name": "kalikar/packgist",
+    "description": "this is repo for composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kalikar",
+            "email": "kalikarzhan@gmail.com"
+        }
+    ],
+    "require": {}
+}
